@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1432208394 source:c:\users\aluno\desktop\projetoingles\main.c
+	<allegro.h>
+
+1434997747 source:c:\users\gustavo\desktop\projetoingles\main.c
+	<allegro.h>
+
+1434933351 source:c:\users\cleiton\documents\codeblocks\projetoingles\main.c
+	<allegro.h>
+
+1435016175 source:c:\users\cleiton.oliveira\desktop\projetoingles\main.c
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+
+1435023724 source:c:\users\gustavo\desktop\trabalho completo\projetoingles\main.c
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+
+1435023724 source:d:\trabalho completo\projetoingles\main.c
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+
